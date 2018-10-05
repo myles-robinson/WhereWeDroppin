@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    <list default="true" id="0667d7e0-2e27-450c-8519-d2ef5aa29be4" name="Default Changelist" comment="" />
-=======
     <list default="true" id="0667d7e0-2e27-450c-8519-d2ef5aa29be4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/myles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myles/Main.java" afterDir="false" />
     </list>
->>>>>>> Stashed changes
-=======
-    <list default="true" id="0667d7e0-2e27-450c-8519-d2ef5aa29be4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WhereWeDroppin/com/myles/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WhereWeDroppin/com/myles/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/myles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myles/Main.java" afterDir="false" />
-    </list>
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,28 +22,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-          <entry key="java" value="560" />
-=======
-          <entry key="java" value="1263" />
->>>>>>> Stashed changes
-=======
-          <entry key="java" value="1257" />
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
+          <entry key="java" value="1739" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-          <entry key="JAVA" value="560" />
-=======
-          <entry key="JAVA" value="1263" />
->>>>>>> Stashed changes
-=======
-          <entry key="JAVA" value="1257" />
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
+          <entry key="JAVA" value="1739" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -79,21 +51,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/myles/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-            <state relative-caret-position="357">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-=======
-            <state relative-caret-position="408">
-              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
->>>>>>> Stashed changes
-=======
-            <state relative-caret-position="328">
-              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="426">
+              <caret line="77" column="58" lean-forward="true" selection-start-line="77" selection-start-column="58" selection-end-line="77" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="263" column="16" selection-start-line="263" selection-start-column="16" selection-end-line="263" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -116,9 +84,6 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
   <component name="FindInProjectRecents">
     <findStrings>
       <find>{</find>
@@ -127,12 +92,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
->>>>>>> Stashed changes
-=======
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -190,15 +149,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538750024978" />
-=======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538762360017" />
->>>>>>> Stashed changes
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538754758643" />
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -242,70 +194,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538748657811</updated>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
       <workItem from="1538748661739" duration="1248000" />
-=======
       <workItem from="1538748661739" duration="6254000" />
->>>>>>> Stashed changes
-=======
-      <workItem from="1538748661739" duration="5694000" />
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    <option name="totallyTimeSpent" value="1248000" />
-=======
-    <option name="totallyTimeSpent" value="6254000" />
->>>>>>> Stashed changes
-=======
-    <option name="totallyTimeSpent" value="5694000" />
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
+    <option name="totallyTimeSpent" value="7916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24876237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-=======
-      <window_info anchor="bottom" id="Version Control" />
->>>>>>> Stashed changes
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32905984" />
-=======
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32905984" />
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,16 +242,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/myles/Drops.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myles/Drops.java" />
     <entry file="file://$PROJECT_DIR$/src/com/myles/Location.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -332,23 +250,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="263" column="16" selection-start-line="263" selection-start-column="16" selection-end-line="263" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myles/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-        <state relative-caret-position="357">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-=======
-        <state relative-caret-position="408">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
->>>>>>> Stashed changes
-=======
-        <state relative-caret-position="328">
-          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
->>>>>>> 8f106b27489853063f8f32224180135e9926f7d3
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="426">
+          <caret line="77" column="58" lean-forward="true" selection-start-line="77" selection-start-column="58" selection-end-line="77" selection-end-column="58" />
         </state>
       </provider>
     </entry>
