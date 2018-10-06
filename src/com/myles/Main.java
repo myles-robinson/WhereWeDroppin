@@ -13,11 +13,29 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+        boolean gameIsValid = false;
+        boolean skillLevelIsValid = false;
+        String selectedGame;
+        String skillLevel;
 
-        System.out.println("Enter a game: (Fortnite or Blackout):");
-        String selectedGame = scanner.nextLine();
-        System.out.println("Enter your skill level (Pro or Rookie)");
-        String skillLevel = scanner.nextLine();
+
+        //Asks for a game until a valid game input is provided.
+        do {
+            System.out.println("Enter a game: (Fortnite or Blackout):");
+            selectedGame = scanner.nextLine();
+            if(selectedGame.equalsIgnoreCase("fortnite") || selectedGame.equalsIgnoreCase("blackout"))
+                gameIsValid = true;
+        } while(!gameIsValid);
+
+        //Asks for a skill level until a valid skill level is provided.
+        do {
+            System.out.println("Enter your skill level (Pro or Rookie)");
+            skillLevel = scanner.nextLine();
+            if(skillLevel.equalsIgnoreCase("pro") || skillLevel.equalsIgnoreCase("rookie"))
+                skillLevelIsValid = true;
+        } while(!skillLevelIsValid);
+
+
 
         getLocation(selectedGame);
 
