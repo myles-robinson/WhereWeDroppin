@@ -13,11 +13,11 @@ public class welcomeActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_welcome);
-
+        setContentView(R.layout.activity_new_welcome);
+/*
         fortniteBtn = findViewById(R.id.fortiteButton);
         blackoutBtn = findViewById(R.id.blackoutButton);
-
+*/
     }
 
     public void fortniteClick(View view)
