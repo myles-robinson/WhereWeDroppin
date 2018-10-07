@@ -5,19 +5,20 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 
 public class welcomeActivity extends AppCompatActivity {
 
-    Button fortniteBtn, blackoutBtn;
+    ImageView fortniteBtn, blackoutBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_new_welcome);
-/*
-        fortniteBtn = findViewById(R.id.fortiteButton);
-        blackoutBtn = findViewById(R.id.blackoutButton);
-*/
+
+        fortniteBtn = findViewById(R.id.imageView3);
+        blackoutBtn = findViewById(R.id.imageView5);
+
     }
 
     public void fortniteClick(View view)

@@ -14,7 +14,8 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/fortnite_logo" />
+        app:srcCompat="@drawable/fortnite_logo"
+        android:onClick="fortniteClick"/>
 
     <ImageView
         android:id="@+id/imageView5"
@@ -24,7 +25,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/bo4_logo" />
+        app:srcCompat="@drawable/bo4_logo"
+        android:onClick="blackoutClick"/>
 
     <TextView
         android:id="@+id/textView"
