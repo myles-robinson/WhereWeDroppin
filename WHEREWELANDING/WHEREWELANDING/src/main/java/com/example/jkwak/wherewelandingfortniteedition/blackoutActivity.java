@@ -39,7 +39,7 @@ public class blackoutActivity extends AppCompatActivity {
                 this, android.R.layout.simple_spinner_item, spinnerArray);
 
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        sItems = (Spinner) findViewById(R.id.spinner);
+        sItems = (Spinner) findViewById(R.id.blackoutSpinner);
         sItems.setAdapter(adapter);
         sItems.setSelection(0);
 
